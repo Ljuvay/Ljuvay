@@ -13,7 +13,7 @@ I'm a Computer Science student at Clemson University, graduating in 2027. I prim
 
 #### Turbulent
 
-<img width="900" alt="Turbulent" src="https://github.com/user-attachments/assets/c0407a74-3f4d-4491-a852-209a68934df4" />
+<img width="400" height="225" alt="TEngine Devlog 3 - Simple Textures - Luvay (1080p, h264, youtube)" src="https://github.com/user-attachments/assets/8996e8b8-05e6-4923-a1a5-0a12797813a9" />
 
 A custom C++ game engine built from scratch to explore game development and real-time rendering.
 
