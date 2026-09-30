@@ -15,9 +15,9 @@ Computer science student at Clemson University (B.S., expected May 2027, minor i
 ### Projects
 
 #### TEngine: Real-Time Rendering Engine
-[<img width="400" alt="TEngine rendering textured terrain" src="https://github.com/user-attachments/assets/8996e8b8-05e6-4923-a1a5-0a12797813a9" />](https://github.com/Ljuvay/Turbulent)
+[<img width="400" alt="TEngine rendering textured terrain" src="https://github.com/user-attachments/assets/8996e8b8-05e6-4923-a1a5-0a12797813a9" />](https://github.com/Ljuvay/TEngine)
 
-A personal project: a custom C++/OpenGL engine with a forward rendering pipeline, Blinn-Phong lighting, shadow mapping, and chunk-based terrain with height-based texture blending. [Code](https://github.com/Ljuvay/Turbulent) · [Dev logs](https://www.youtube.com/@Luvayy/featured)
+A personal project: a custom C++/OpenGL engine with a forward rendering pipeline, Blinn-Phong lighting, shadow mapping, and chunk-based terrain with height-based texture blending. [Code](https://github.com/Ljuvay/TEngine) · [Dev logs](https://www.youtube.com/@Luvayy/featured)
 
 #### SDF & Level-Set Rendering (Coursework)
 <img width="600" alt="Dragon mesh rendered as a level set" src="https://github.com/user-attachments/assets/74989710-4202-43e6-8e92-7ff4875bedec" />
